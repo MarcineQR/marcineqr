@@ -7,8 +7,8 @@
 ✅ Create Cool GitHub 😺</br>
 🔲 Publish Paul The Duck On Play Store 🦆</br>
 🔲 Learn Unreal Engine 5 🕹️</br>
-🔲 Learn Android Studio 📱</br>
 🔲 Learn Three.JS & React.JS 💻</br>
+🔲 Learn Android Studio 📱</br>
 🔲 Learn Swift 🍎</br>
 🔲 Visit Prague 🏰</br>
 🔲 Driving License 🚗</br>
