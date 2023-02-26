@@ -1,15 +1,17 @@
 👋 **Hey**</br>
 ✍️ **Bio**</br>
 
-🎯 **This Year Goals**</br>
+🎯 **Coding Goals**</br>
 
 ✅ Create Portfolio Website 🌐</br>
 ✅ Create Cool GitHub 😺</br>
 🔲 Publish Paul The Duck On Play Store 🦆</br>
 🔲 Learn Unreal Engine 5 🕹️</br>
 🔲 Learn Three.JS & React.JS 💻</br>
-🔲 Learn Android Studio 📱</br>
-🔲 Learn Swift 🍎</br>
+🔲 Learn Android Studio & Swift 📱</br>
+
+ **🎯 Other Goals**</br>
+ 
 🔲 Visit Prague 🏰</br>
 🔲 Driving License 🚗</br>
 🔲 Bench Press 215 Lbs 🏋</br>
