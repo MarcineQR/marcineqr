@@ -1,5 +1,5 @@
-👋 **Hey**</br>
-✍️ **Bio**</br>
+👋 **Bio**</br>
+✍️ **About Me**</br>
 
 🎯 **Coding Goals**</br>
 
