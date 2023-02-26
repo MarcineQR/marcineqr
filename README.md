@@ -1,14 +1,14 @@
 👋 **Hi**
 
-My name is Marcin and I am Unity Developer. Already in elementary school I started my journey with computers by creating 2D graphics in GIMP and recording videos in Sony Vegas. Later I spend many time in Blender 🖥️
+My name is Marcin and I am Unity Developer. Already in elementary school I started my journey with computers by creating 2D graphics in **GIMP** and recording videos in **Sony Vegas**. Later I spend many time in **Blender** 🖥️
 
-I wanted to use my 3D car model to create a racing game in my family city. I had no experience with programming so I gave up but it was first step to learn programming. After failure I started learning programming basics in C++ 👨‍💻 
+I wanted to use my **3D** car model to create a racing game in my family city. I had no experience with programming so I gave up but it was first step to learn **programming**. After failure I started learning programming basics in **C++** 👨‍💻 
 
-Now I mainly develop games in Unity and learns others programming languages. I am CEO of Overlapp 😎
+Now I mainly develop games in **Unity** and learns others **programming** languages. I am CEO of **Overlapp** 😎
 
 💼 **Ready To Go**
 
-I currently search for cool internship that i have to do because of school 🏫
+I currently search for cool **internship** that i have to do because of **school** 🏫
 
 ✍️ **About Me**
 
@@ -54,3 +54,5 @@ let marcineq = {
 📈 **GitHub Stats**
 
 <img style src="https://github-readme-stats.vercel.app/api?username=marcineqr&show_icons=true&theme=algolia" alt="my github stats" /></div>
+
+<a href="https://www.buymeacoffee.com/marcineqr">☕ Buy me a Coffee</a>
