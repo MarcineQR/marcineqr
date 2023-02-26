@@ -23,7 +23,7 @@ let marcineq = {
     gender: "Male", 
     favorite_games: ["Minecraft","Portal 2","Half-Life 2","NFS:U2","Dying Light","Witcher 3","We Were Here"],
     favorite_movies: ["Fight Club", "Se7en", "Inception"],
-    sports: ["Basketball","Gym","Chess"]
+    sports: ["Basketball","Gym","Chess"],
     contact: {
         discord: "marcineq#6828",
         email: "kontakt@marcinprotas.pl",
