@@ -1,3 +1,5 @@
+<img align="right" src="https://raw.githubusercontent.com/MarcineQFiverrHosting/portfolio-school-internship/main/img/avatar_t2.png" width="100px"></img>
+
 👋 **Hi**
 
 My name is Marcin and I am Unity Developer. Already in elementary school I started my journey with computers by creating 2D graphics in **GIMP** and recording videos in **Sony Vegas**. Later I spend many time in **Blender** 🖥️
@@ -31,6 +33,17 @@ let marcineq = {
 
 ✍️ **Skills**
 
+<p>
+<img src="https://img.shields.io/badge/Sharp-141414?style=flat&logo=c#">
+<img src="https://img.shields.io/badge/Unity-141414?style=flat&logo=unity">
+<img src="https://img.shields.io/badge/Blender-141414?style=flat&logo=blender">
+<img src="https://img.shields.io/badge/Photoshop-141414?style=flat&logo=adobe">
+<img src="https://img.shields.io/badge/Python-141414?style=flat&logo=python">
+<img src="https://img.shields.io/badge/Sharp-141414?style=flat&logo=html5">
+<img src="https://img.shields.io/badge/Unity-141414?style=flat&logo=css3">
+<img src="https://img.shields.io/badge/Blender-141414?style=flat&logo=javascript">
+</p>
+    
 🎯 **Coding Goals**
 
 ```text
