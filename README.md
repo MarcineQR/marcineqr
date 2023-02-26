@@ -39,9 +39,9 @@ let marcineq = {
 <img src="https://img.shields.io/badge/Blender-141414?style=flat&logo=blender">
 <img src="https://img.shields.io/badge/Photoshop-141414?style=flat&logo=adobe">
 <img src="https://img.shields.io/badge/Python-141414?style=flat&logo=python">
-<img src="https://img.shields.io/badge/Sharp-141414?style=flat&logo=html5">
-<img src="https://img.shields.io/badge/Unity-141414?style=flat&logo=css3">
-<img src="https://img.shields.io/badge/Blender-141414?style=flat&logo=javascript">
+<img src="https://img.shields.io/badge/HTML-141414?style=flat&logo=html5">
+<img src="https://img.shields.io/badge/CSS-141414?style=flat&logo=css3">
+<img src="https://img.shields.io/badge/JavaScript-141414?style=flat&logo=javascript">
 </p>
     
 🎯 **Coding Goals**
