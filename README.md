@@ -1,21 +1,42 @@
-👋 **Bio**</br>
-✍️ **About Me**</br>
+👋 **Bio**
 
-🎯 **Coding Goals**</br>
+✍️ **About Me**
 
-✅ Create Portfolio Website 🌐</br>
-✅ Create Cool GitHub 😺</br>
-🔲 Publish Paul The Duck On Play Store 🦆</br>
-🔲 Learn Unreal Engine 5 🕹️</br>
-🔲 Learn Three.JS & React.JS 💻</br>
-🔲 Learn Android Studio & Swift 📱</br>
+```javascript
+let marcineq = {
+    name: "Marcin",
+    surname: "Protas",
+    age: 17,
+    country: "Poland",
+    gender: "Male", 
+    favorite_games: ["Minecraft","Portal 2","Half-Life 2","NFS:U2","Dying Light","Witcher 3","We Were Here"],
+    favorite_movies: ["Fight Club", "Se7en", "Inception"],
+    sports: ["Basketball","Gym","Chess"]
+}
+```
 
- **🎯 Other Goals**</br>
+✍️ **Skills**
+
+🎯 **Coding Goals**
+
+```text
+✅ Create portfolio website 🌐
+✅ Create cool GitHub 😺
+🔲 Publish Paul The Duck on Play Store 🦆
+🔲 Learn Unreal Engine 5 🕹️
+🔲 Learn Three.JS & React.JS 💻
+🔲 Learn Android Studio & Swift 📱
+```
+
+ **🎯 Other Goals**
  
-🔲 Visit Prague 🏰</br>
-🔲 Driving License 🚗</br>
-🔲 Bench Press 215 Lbs 🏋</br>
-🔲 Find Girlfriend 💖</br>
+ ```text
+🔲 Visit Prague 🏰
+🔲 Driving license 🚗
+🔲 Bench press 215 lbs 🏋
+🔲 Find girlfriend 💖
+```
 
-📈 **GitHub Stats**</br></br>
+📈 **GitHub Stats**
+
 <img style src="https://github-readme-stats.vercel.app/api?username=marcineqr&show_icons=true&theme=algolia" alt="my github stats" /></div>
