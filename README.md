@@ -4,7 +4,7 @@
 🎯 **This Year Goals**</br>
 
 ✅ Create Portfolio Website 🌐</br>
-✅ Create Cool GitHub 😺
+✅ Create Cool GitHub 😺</br>
 🔲 Publish Paul The Duck On Play Store 🦆</br>
 🔲 Learn Unreal Engine 5 🕹️</br>
 🔲 Learn Android Studio 📱</br>
