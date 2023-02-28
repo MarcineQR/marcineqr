@@ -18,16 +18,17 @@ I currently search for cool **internship** that i have to do because of **school
 let marcineq = {
     name: "Marcin",
     surname: "Protas",
-    age: 17,
     country: "Poland",
-    gender: "Male", 
+    gender: "Male",
+    age: 17,
     favorite_games: ["Minecraft","Portal 2","Half-Life 2","NFS:U2","Dying Light","Witcher 3","We Were Here"],
     favorite_movies: ["Fight Club", "Se7en", "Inception"],
     sports: ["Basketball","Gym","Chess"],
     contact: {
         discord: "marcineq#6828",
         email: "kontakt@marcinprotas.pl",
-    }
+    },
+    vs_code_theme: "monokai"
 }
 ```
 
@@ -66,6 +67,6 @@ let marcineq = {
 
 📈 **GitHub Stats**
 
-<img style src="https://github-readme-stats.vercel.app/api/?username=marcineqr&show_icons=true&theme=algolia" alt="my github stats" /></div>
+<img style src="https://github-readme-stats.vercel.app/api/?username=marcineqr&show_icons=true&theme=monokai" alt="my github stats" /></div>
 
 <a href="https://www.buymeacoffee.com/marcineqr">☕ Buy me a Coffee</a>
