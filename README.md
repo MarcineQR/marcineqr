@@ -67,6 +67,6 @@ let marcineq = {
 
 📈 **GitHub Stats**
 
-<img style src="https://github-readme-stats.vercel.app/api/?username=marcineqr&show_icons=true&theme=nord" alt="my github stats" /></div>
+<img style src="https://github-readme-stats.vercel.app/api/?username=marcineqr&show_icons=true&theme=github_dark" alt="my github stats" /></div>
 
 <a href="https://www.buymeacoffee.com/marcineqr">☕ Buy me a Coffee</a>
