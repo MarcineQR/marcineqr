@@ -59,7 +59,7 @@ let marcineq = {
  **🎯 Other Goals**
  
  ```text
-🔲 Visit Prague 🏰
+❌ Visit Prague 🏰
 🔲 Driving license 🚗
 🔲 Bench press 215 lbs 🏋
 🔲 Find girlfriend 💖
