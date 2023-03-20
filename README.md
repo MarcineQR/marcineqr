@@ -60,6 +60,7 @@ let marcineq = {
  
  ```text
 ❌ Visit Prague 🏰
+🔲 Build new PC 🖥️
 🔲 Driving license 🚗
 🔲 Bench press 215 lbs 🏋
 🔲 Find girlfriend 💖
