@@ -50,7 +50,7 @@ let marcineq = {
 ```text
 ✅ Create portfolio website 🌐
 ✅ Create cool GitHub 😺
-🔲 Publish Paul The Duck on Play Store 🦆
+❌ Publish Paul The Duck on Play Store 🦆
 🔲 Learn Unreal Engine 5 🕹️
 🔲 Learn Three.JS & React.JS 💻
 🔲 Learn Android Studio & Swift 📱
