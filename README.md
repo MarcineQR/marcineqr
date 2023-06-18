@@ -10,7 +10,7 @@ Now I mainly develop games in **Unity** and learns others **programming** langua
 
 💼 **Ready To Go**
 
-I'm waiting for your **order** 🏫
+I am waiting for your **order** 💰
 
 ✍️ **About Me**
 
