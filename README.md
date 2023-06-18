@@ -10,7 +10,7 @@ Now I mainly develop games in **Unity** and learns others **programming** langua
 
 💼 **Ready To Go**
 
-I currently search for cool **collabo** that i work after **school time** 🏫
+I'm waiting for your **order** 🏫
 
 ✍️ **About Me**
 
