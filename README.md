@@ -50,7 +50,6 @@ let marcineq = {
 ```text
 ✅ Create portfolio website 🌐
 ✅ Create cool GitHub 😺
-❌ Publish Paul The Duck on Play Store 🦆
 🔲 Learn Unreal Engine 5 🕹️
 🔲 Learn Three.JS & React.JS 💻
 🔲 Learn Android Studio & Swift 📱
@@ -59,11 +58,9 @@ let marcineq = {
  **🎯 Other Goals**
  
  ```text
-❌ Visit Prague 🏰
 ✅ Build new PC 🖥️
 🔲 Driving license 🚗
 🔲 Bench press 225 lbs 🏋
-🔲 Find girlfriend 💖
 ```
 
 📈 **GitHub Stats**
